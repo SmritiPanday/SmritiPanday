@@ -128,11 +128,9 @@
 <div align="center">
 <img width="200" height="300" src="https://github.com/codERSunny812/codERSunny812/assets/95053082/f3ee2821-c5fa-4a13-a8fe-7fd7d4919c07" />
 
-I am a fourth-year Computer Science undergraduate at Dr. Ram Manohar Lohia Avadh University.
+I am a Third-year Computer Science undergraduate at calcutta Institute of technology.
 
-✔ Experienced Front End Developer.
-
-✔ Proficient in web development, Data Structures Algorithms (Java), and Solidity.
+✔ Proficient in web development, Data Structures Algorithms (JavaScript).
 
 ✔ Strive to contribute my expertise in Data Structures and Algorithms.
 
@@ -145,13 +143,8 @@ I am a fourth-year Computer Science undergraduate at Dr. Ram Manohar Lohia Avadh
     Education 
     </h2>
 
-  Eight Semester - Bachelor in Computer Engineering - Institue of Engineering and Technology, Ayodhya
+  Fifth Semester - Bachelor in Computer Engineering -  Calcutta Institue of  Technology, Howrah.
   
-  Secondary School Certificate (CBSE) or Matriculation Examination - Kendriya Vidyalaya AMC, Lucknow.
-
-
-
-
 
 </div>
 
@@ -159,18 +152,7 @@ I am a fourth-year Computer Science undergraduate at Dr. Ram Manohar Lohia Avadh
 <div align="center">
 
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=codERSunny812&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Issues">
- </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=codERSunny812&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Experience,Stars,Followers">
- </div>
 
 
 
