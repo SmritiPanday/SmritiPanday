@@ -126,7 +126,7 @@
 </h1>
 
 <div align="center">
-<img width="200" height="300" src="https://github.com/codERSunny812/codERSunny812/assets/95053082/f3ee2821-c5fa-4a13-a8fe-7fd7d4919c07" />
+
 
 I am a Third-year Computer Science undergraduate at calcutta Institute of technology.
 
@@ -158,14 +158,14 @@ I am a Third-year Computer Science undergraduate at calcutta Institute of techno
 
 
 <p align="center">
-  <a href="https://github.com/codERSunny812">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codERSunny812&theme=radical" alt="Chirag's GitHub Contribution"/>
+  <a href="https://github.com/smritiPandey87">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smritiPandey87&theme=radical" alt="Chirag's GitHub Contribution"/>
   </a>
 </p>
 
 
 
-![Sunny's Graph](https://github-readme-activity-graph.vercel.app/graph?username=codERSunny812&custom_title=Sunny's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Smriti's Graph](https://github-readme-activity-graph.vercel.app/graph?username=smritiPandey87&custom_title=Smriti's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
@@ -222,28 +222,28 @@ I am a Third-year Computer Science undergraduate at calcutta Institute of techno
 
 
 ## Support
-<a href="https://www.buymeacoffee.com/codERSunny">
+<a href="https://www.buymeacoffee.com/smritiPandey87">
     <img height="55" width="210" alt="Ananya singh | Twitter" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" />
 </a> 
-<a href="https://ko-fi.com/codersunny">
+<a href="https://ko-fi.com/smritiPandey87">
     <img height="55" width="210" alt="Ananya singh | Twitter" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" />
 </a>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=codersunny812&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=smritiPandey87&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 
 
 
 ### Lang Used
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersunny812&langs_count=20&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smritiPandey87&langs_count=20&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" /></p>
  
  # 📊 GitHub Stats:
   
  <p align="center">
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=codERSunny812&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" /> 
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=codERSunny812&theme=dracula&hide_border=false" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=smritiPandey87&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" /> 
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=smritiPandey87&theme=dracula&hide_border=false" />
 
 </p>
 
